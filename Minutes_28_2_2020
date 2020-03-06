@@ -1,0 +1,65 @@
+Minutes of the first bioinformatics study group meeting held on 28th February
+2020 at ICIPE
+
+In attendance
+Kennedy Mwangi (KM)
+Jacqueline Wahura (JW)
+Gilbert Kibet (GK)
+Careen Naitore (CN)
+
+Absent with apologies
+Pauline Karega (PK)
+Charles Kamonde (CK)
+
+Min 1/28_2_2020 : Start of the meeting
+GK called the meeting to order at 1509 East African time. He gave 
+brief highlight of the agendas of the meeting including:
+Agenda 1: Meeting time and venue
+Agenda 2: Goals and objectives of the group
+Agenda 3: Avenues for group communication 
+Agenda 4: Key discussion topics of the group
+
+Min 2/28_2_2020 : Meeting time and venue
+The members  agreed that they will be meeting weekly on every Friday at 1000hrs
+East African time. 
+Two venues were agreed upon ICIPE and JKUAT, and the members will be deciding 
+on where to hold the meeting priorly depending on the activities of the 
+following meeting.
+
+Min 3/28_2_2020: Goals and Objectives of the group
+the members agreed to the following objectives:
+1. To gain ground in bioinformatics knowledge and skills specifically in the
+area of workflows and bioinformatics pipeline development.
+2. To share knowledge through peer learning in the different bioinformatics
+areas that the members have mastered.
+3. To gain skills on how to carry out research at an in depth level through 
+discussions and collaborations.
+
+Min 4/28_2_2020 : Avenues for group communication
+The members agreed to use the previously created WhatsApp group for 
+communication. Other avenues for communication will be E-mail communication.
+For purposes of sharing study materials, a study group E-mail to be managed by
+CN will be used. Google groups and Github will be used in sharing data, codes and upholding 
+reproducibility.
+
+Min 5/28_2_2020 : Key discussion bioinformatics topics
+The members agreed to start by discussing how to make reproducible 
+bioinformatics workflows and pipelines. The members would start by reviewing 
+papers shared by GK on the group's WhatsAPP  group. The next steps after this 
+would involve:
+-Picking a language e.g. Snakemake, Nextflow, Galaxy, Common Workflow Language
+-Understanding the languages
+-Looking at pipelines e.g. 16 rRNA metagenomics pipeline, Expression networks, 
+			  RNAseq pipelines
+-Containerization using Schedulers
+-Bash scripting
+-Coding in R and Python 
+
+Min 6/28_2_2020: Any Other Business
+CN created the group's E-mail adress. GK created the google groups account for
+the group JW, kM and CN created the group's Github account and JW was to write
+the minutes of the group and upload in the group's communication accounts.
+
+Min 7/28_2_2020 : Adjournment of the meeting
+The meeting was adjourned at 1609hrs East African time. The next meeting was
+scheduled to be held on 6th March 2020 at ICIPE.
